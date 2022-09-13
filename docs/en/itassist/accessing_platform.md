@@ -1,5 +1,5 @@
 ---
-title: Accessing The Platform
+title: Accessing The IT Assist
 
 permalink: en/itassist/Accessing The Platform
 
